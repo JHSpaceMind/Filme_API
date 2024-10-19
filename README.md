@@ -1,3 +1,4 @@
+![Finalizado](https://img.shields.io/badge/Status-Finalizado-brightgreen)
 # API de Filmes 🎬
 
 Uma API RESTful para gerenciar um catálogo de filmes, permitindo operações de CRUD (Criar, Ler, Atualizar, Excluir) com os filmes.
